@@ -78,13 +78,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-ori
 
 <img 
 align= "left"
-title= "mongoDB"
-width="30px"
-style="padding-right: 10;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-
-<img 
-align= "left"
 title= "mysql"
 width="30px"
 style="padding-right: 10;"
